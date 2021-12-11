@@ -1,4 +1,4 @@
-# QA Automation Testing Showcase 
+# QA Automation Testing  
  Authors: Nave Ben-Elyahu, Mimi Isaak, Jondi Tsveniashvili
 
 
