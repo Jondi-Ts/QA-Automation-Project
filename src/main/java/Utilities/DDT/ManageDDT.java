@@ -34,7 +34,7 @@ public class ManageDDT {
     @DataProvider(name = "data-provider")
     @Description("DataProvider: Get Object 'table' from CSV file")
     public static Object[][] getDataObject() {
-        return getDataFromCSV("C:\\Automation\\Hacakton\\hackathonNumberOneNess\\ExternalFiles\\DataForReading.csv");
+        return getDataFromCSV("C:\\Automation\\Hacakton\\QA-Automation-Project\\ExternalFiles\\DataForReading.csv");
     }
 
     @Description("Convert CSV into Object 'table'")

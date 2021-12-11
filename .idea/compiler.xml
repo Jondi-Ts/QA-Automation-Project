@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="HackathonNumberOne" />
+        <module name="QA-Automation-Project" />
       </profile>
     </annotationProcessing>
   </component>
